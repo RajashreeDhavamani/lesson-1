@@ -10,7 +10,7 @@ function App() {
     <div>
       <Headers/>
     <MainBody/>
-    <h2>Fotter</h2>
+    <>Fotter</>
     </div>
   )
 }
